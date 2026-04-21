@@ -7,9 +7,6 @@
    ```bash
    git clone [https://github.com/Aruzhan/Backend.git](https://github.com/Aruzhan/Backend.git)
    cd Backend
-
-   
-
 2. **Создайте и активируйте виртуальное окружение:**
    ```bash
    python -m venv venv
@@ -17,11 +14,6 @@
    venv\Scripts\activate
       # Для macOS/Linux:
    source venv/bin/activate
-
-
-
-
-
 3. **Установите зависимости:**
     ```bash
     pip install -r requirements.txt
