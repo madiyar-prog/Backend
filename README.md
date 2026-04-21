@@ -5,7 +5,7 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/Aruzhan/Backend.git](https://github.com/Aruzhan/Backend.git)
+   git clone https://github.com/madiyar-prog/Backend.git
    cd Backend
 2. **Создайте и активируйте виртуальное окружение:**
    ```bash
